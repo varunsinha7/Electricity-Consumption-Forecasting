@@ -1,45 +1,70 @@
-Electricity Consumption Forecasting
-Overview
+# Electricity Consumption Forecasting
+
+## Overview
+
 This project involves developing models to predict electricity consumption using data from Delhi, India. The goal is to provide accurate forecasts to aid in energy management and planning.
 
-Description
+## Description
+
 The project utilizes both Random Forest and ARIMA models to forecast electricity consumption. Various data visualization techniques are employed to identify trends and anomalies in the dataset.
 
-Technologies Used
-Programming Language: Python
-Libraries/Frameworks: Random Forest, ARIMA, Matplotlib, Seaborn
-Key Features
-Time Series Forecasting: Implemented Random Forest and ARIMA models to predict future electricity consumption.
-Data Visualization: Used Matplotlib and Seaborn to visualize trends and anomalies in the data.
-Performance: Achieved a prediction accuracy of 90%.
-Installation
-Clone the Repository
+## Technologies Used
 
-git clone https://github.com/sahil7359/electricity-consumption-forecasting.git
-Navigate to the Project Directory
+- **Programming Language:** Python
+- **Libraries/Frameworks:** Random Forest, ARIMA, Matplotlib, Seaborn
 
-cd electricity-consumption-forecasting
-Install Dependencies
+## Key Features
 
-Ensure you have Python and pip installed, then run:
+- **Time Series Forecasting:** Implemented Random Forest and ARIMA models to predict future electricity consumption.
+- **Data Visualization:** Used Matplotlib and Seaborn to visualize trends and anomalies in the data.
+- **Performance:** Achieved a prediction accuracy of 90%.
 
-pip install -r requirements.txt
-Usage
-Prepare Your Data
+## Installation
 
-Make sure your data is in the required format. You can use the provided sample data or replace it with your own.
+1. **Clone the Repository**
 
-Run the Forecasting Script
+    ```bash
+    git clone https://github.com/sahil7359/electricity-consumption-forecasting.git
+    ```
 
-Execute the main script to run the forecasting models:
+2. **Navigate to the Project Directory**
 
-python main.py
-View Results
+    ```bash
+    cd electricity-consumption-forecasting
+    ```
 
-Results and visualizations will be saved in the results/ directory.
+3. **Install Dependencies**
 
-Contributing
+    Ensure you have Python and pip installed, then run:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+1. **Prepare Your Data**
+
+    Make sure your data is in the required format. You can use the provided sample data or replace it with your own.
+
+2. **Run the Forecasting Script**
+
+    Execute the main script to run the forecasting models:
+
+    ```bash
+    python main.py
+    ```
+
+3. **View Results**
+
+    Results and visualizations will be saved in the `results/` directory.
+
+## Contributing
+
 Feel free to fork this repository, make changes, and submit pull requests. Contributions and suggestions are welcome!
 
-Contact
-For any questions or comments, please reach out to me at help.sahil.gob@gmail.com.
+
+## Contact
+
+For any questions or comments, please reach out to me at [help.sahil.gob@gmail.com](mailto:help.sahil.gob@gmail.com).
+

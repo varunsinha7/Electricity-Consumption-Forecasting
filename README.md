@@ -66,5 +66,5 @@ Feel free to fork this repository, make changes, and submit pull requests. Contr
 
 ## Contact
 
-For any questions or comments, please reach out to me at [help.sahil.gob@gmail.com](mailto:help.sahil.gob@gmail.com).
+For any questions or comments, please reach out to me at [sinha1999vk@gmail.com](mailto:sinha1999vk@gmail.com).
 
